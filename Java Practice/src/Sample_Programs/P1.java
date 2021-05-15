@@ -1,6 +1,5 @@
 package Sample_Programs;
 
-package 
 
 class P1 
 {
