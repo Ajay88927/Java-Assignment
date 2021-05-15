@@ -1,0 +1,21 @@
+package ExceptionHandling;
+
+public class CCE
+{
+	String animal="Lion";
+	System.out.println("Wild animal Category");
+}
+public class DomesticAnimals extends Animals
+{
+	String animal="Cow";
+	System.out.println("Domestic animal Category");
+}
+public class CCE
+{
+	public static void main(String[] args) {
+		
+	}
+}
+
+
+

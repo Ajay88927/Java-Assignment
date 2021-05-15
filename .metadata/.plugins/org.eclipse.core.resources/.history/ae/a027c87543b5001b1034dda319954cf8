@@ -1,0 +1,25 @@
+package ExceptionHandling;
+
+public class Animal
+{
+	String animal="Lion";
+	System.out.println("Wild animal Category");
+}
+public class DomesticAnimal extends Animal
+{
+	String animal="Cow";
+	System.out.println("Domestic animal Category");
+}
+public class Test
+{
+	public static void main(String[] args) {
+		Animal a=new DomesticAnimal();
+		
+		
+		
+		
+	}
+}
+
+
+
